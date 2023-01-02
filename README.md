@@ -1,6 +1,6 @@
 # qr_scanner
 
-QrCode Scanner free developer with Flutter
+A free QrCode Scanner developed with Flutter
 
 ## Thanks for packages: 
 
