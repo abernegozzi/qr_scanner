@@ -1,16 +1,12 @@
 # qr_scanner
 
-A new Flutter project.
+QrCode Scanner free developer with Flutter
 
-## Getting Started
+## Thanks for packages: 
 
-This project is a starting point for a Flutter application.
+  - [mobile_scanner] https://pub.dev/packages/mobile_scanner
+  - [localstore] https://pub.dev/packages/localstore
+  - [url_launcher] https://pub.dev/packages/url_launcher
+  - [share] https://pub.dev/packages/share
+  - [flutter_native_splash] https://pub.dev/packages/flutter_native_splash
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
